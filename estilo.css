@@ -1,0 +1,61 @@
+body{
+background-color: white;
+}
+table{
+width: 100%;
+}
+th, td{
+width: 25%;
+}
+a.one:link{color:white;text-decoration: none;font-size: 20;font-weight: bold;font-family: Helvetica;}
+a.one:visited{color:white;text-decoration: none;font-size: 20;font-weight: bold;font-family: Helvetica;}
+a.one:hover{color:white;text-decoration: none;font-size: 150%;font-weight: bold;font-family: Helvetica;}
+
+a.two:link{color:white;text-decoration: none;font-size: 20;font-weight: bold;font-family: Helvetica;}
+a.two:visited{color:white;text-decoration: none;font-size: 20;font-weight: bold;font-family: Helvetica;}
+a.two:hover{color:white;text-decoration: none;font-size: 150%;font-weight: bold;font-family: Helvetica;}
+
+a.three:link{color:white;text-decoration: none;font-size: 20;font-weight: bold;font-family: Helvetica;}
+a.three:visited{color:white;text-decoration: none;font-size: 20;font-weight: bold;font-family: Helvetica;}
+a.three:hover{color:white;text-decoration: none;font-size: 150%;font-weight: bold;font-family: Helvetica;}
+
+a.four:link{color:white;text-decoration: none;font-size: 20;font-weight: bold;font-family: Helvetica;}
+a.four:visited{color:white;text-decoration: none;font-size: 20;font-weight: bold;font-family: Helvetica;}
+a.four:hover{color:white;text-decoration: none;font-size: 150%;font-weight: bold;font-family: Helvetica;}
+
+h3{
+text-align: center;
+color: grey;
+font-family: Helvetica;
+font-size: 40;
+}
+.parrafo{
+font-family: Helvetica;
+color: white;
+font-size: 20;
+text-align: center;
+}
+.parrafo2{
+font-family: Helvetica;
+color: grey;
+font-size: 20;
+text-align: left;
+}
+.parrafo3{
+font-family: Helvetica;
+color: white;
+font-size: 16;
+text-align: center;
+}
+.parrafo4{
+font-family: Helvetica;
+color: grey;
+font-size: 20;
+text-align: center;
+}
+.parrafo5{
+font-family: Helvetica;
+color: grey;
+font-size: 20;
+text-align: right;
+}
